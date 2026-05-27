@@ -1,2 +1,19 @@
-# my-course-portfolio
-Portfolio of my work and projects for Computer Programming and Analysis
+Welcome to my academic portfolio for Computer Programming and Analysis!
+
+## About Me
+
+- Name: Gulpari Alandarova
+- Major: Computer Programming and Analysis
+- Year: First Year
+- Favorite Programming Language: C
+
+## Course Goals
+
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+
+## Projects
+
+*This section will be updated as I complete assignments*
